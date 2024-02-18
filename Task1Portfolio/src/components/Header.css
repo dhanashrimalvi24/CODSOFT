@@ -1,0 +1,125 @@
+/* import '@fortawesome/fontawesome-free/css/all.css'; */
+
+.main-panel {
+	width: 100%;
+	float: left;
+    background-color:rgb(8, 8, 7);
+    color:white;
+    font-size: 40px;
+	font-weight: 400;
+}
+
+.span-col {
+	color: #ffbf35;
+}
+
+nav {
+	float: right;
+	padding:2%;
+}
+
+nav a {
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 500;
+	margin-left: 20px;
+	color: white;
+}
+
+
+
+/* Skill */
+.heading-text,.main-section{
+	background-color: black;
+	color:white;
+}
+.skill {
+	margin-top: 30px;
+	font-size: 17px;
+}
+
+.skill span {
+	float: right;
+}
+
+.skill div {
+	width: 100%;
+	float: left;
+	margin-top: 5px;
+	background: #e7e7e7;
+	border-radius: 10px;
+}
+
+.skill div span {
+	background: #ffbf35;
+	height: 5px;
+	float: left;
+}
+
+/* Project Section */
+.service-list {
+	padding: 40px;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 35px;
+	background: #262626;
+	border-radius: 15px;
+	width: 84%;
+	float: left;
+}
+
+.service-list h3 {
+	font-size: 28px;
+	margin-top: 8px;
+	margin-bottom: 15px;
+}
+
+.service-list p {
+	font-size: 15px;
+	line-height: 25px;
+}
+
+/*CONTACT US SECTION*/
+.contact form {
+	width: 66%;
+	margin: 0px auto;
+}
+.contact input,
+textarea {
+	width: 100%;
+	float: left;
+	margin-bottom: 20px;
+	height: 40px;
+	padding: 10px;
+	border: 1px solid #a1a1a1;
+	background-color: black;
+	color: #ffbf35 ;
+}
+.contact textarea {
+	height: 80px;
+}
+.contact button {
+	width: 100%;
+	float: left;
+	margin-bottom: 20px;
+	height: 40px;
+	padding: 10px;
+	background: #ffbf35;
+	color: #fff;
+	border: none;
+	font-size: 16px;
+}
+.contact h4 {
+	font-size: 22px;
+	text-align: center;
+	margin-top: 10px;
+}
+.contact p {
+	text-align: center;
+	font-size: 16px;
+	margin-top: 5px;
+}
+.width-33{
+	width:100%;
+	float: left;
+}

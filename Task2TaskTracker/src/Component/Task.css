@@ -1,0 +1,22 @@
+.container{
+    color: rgb(40, 1, 63);
+    background-color: rgb(174, 172, 172);
+    margin: 5%;
+    padding: 2%;
+}
+.heading{
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(120, 31, 31);
+}
+.inp{
+    text-align: center;
+    height: 20px;
+}
+.task{
+    font-size: larger;
+    font-weight: 600;
+}
+.list{
+    list-style:none;
+}
